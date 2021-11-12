@@ -1,2 +1,2 @@
-config
-  info: springcloud-config  master config-test.yml
+config:
+  info: "springcloud-config  master config-test.yml"
